@@ -18,7 +18,7 @@ jobs:
         env:
           MONGO_INITDB_ROOT_USERNAME: admin
           MONGO_INITDB_ROOT_PASSWORD: password
-          MONGO_INITDB_DATABASE: test
+          MONGO_INITDB_ROOT_DATABASE: test
         ports:
           - 27017:27017
         options: >-
