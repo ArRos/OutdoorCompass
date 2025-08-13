@@ -1,6 +1,7 @@
 # OutdoorCompass
 
 A modern outdoor activity planning and navigation application built with FastAPI, React, and MongoDB.
+Note: Cursor will be used as the main editor for this project, with caution since the goal is also to learn along the way.
 
 ## 🏗️ Project Structure
 
